@@ -16,3 +16,4 @@ input = gets.to_i
 
 puts "結果は..."
 puts fizsz_buzz(input)
+
